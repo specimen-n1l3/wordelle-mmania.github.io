@@ -1,1 +1,2 @@
-Wordle implementation based on thecodercoder's repository
+Wordle implementation.
+Six tries to guess a five letter word
