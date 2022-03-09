@@ -67,7 +67,7 @@ const checkWin = () => {
   //console.log('check win');
   if (solutionWord == currentGuess.dataset.letters) {
     // Win
-    //console.log('game is won!');
+    console.log('Congratulations!');
     setTimeout(() => {
       jumpTiles();
     }, 500);
